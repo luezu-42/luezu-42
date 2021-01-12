@@ -13,4 +13,4 @@ Me chamo Leonardo e sou um entusiasta da tecnologia e desenvolvimento Front-End 
 - Avançar conhecimento em Typescript
 - Continuar procurando o que aprender!
 
-Estou sempre buscando crescer minha rede pessoal e profissional. Sinta-se à vontade para se conectar através do LinkedIn ou me contate diretamente em leonardouezu@gmail.com. 
+Estou sempre buscando crescer minha rede pessoal e profissional. Sinta-se à vontade para se conectar através do <a href="https://www.linkedin.com/in/leonardouezu/">LinkedIn</a> ou me contate diretamente em leonardouezu@gmail.com. 
