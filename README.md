@@ -1,8 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<h1>Teste<h1/>
+Me chamo Leonardo e sou um entusiasta da tecnologia e desenvolvimento Front-End e fascinado por algoritmos. Acredito no poder do desenvolvimento tecnológico para garantir uma sociedade sustentável, democrática, acessível e economicamente justa.
+
+Estou sempre buscando crescer minha rede pessoal e profissional. Sinta-se à vontade para se conectar através do LinkedIn ou me contate diretamente em leonardouezu@gmail.com. 
 
 Here are some ideas to get you started:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
