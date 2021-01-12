@@ -2,11 +2,11 @@
 
 Me chamo Leonardo e sou um entusiasta da tecnologia e desenvolvimento Front-End e fascinado por algoritmos. Acredito no poder do desenvolvimento tecnológico para garantir uma sociedade sustentável, democrática, acessível e economicamente justa.
 
-<h2>Tecnologias:<h2/>
+## Tecnologias:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luezu-42&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2/>Objetivos para 2021:<h2/>
+## Objetivos para 2021:
 
 - Iniciar projetos em Ruby on Rails para começar a aprender Hotwire
 - Começar serviçoes em Tempo Real
