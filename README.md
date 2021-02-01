@@ -9,7 +9,7 @@ Me chamo Leonardo e sou um entusiasta da tecnologia e desenvolvimento Front-End 
 ## Objetivos para 2021:
 
 - Iniciar projetos em Ruby on Rails para começar a aprender Hotwire
-- Aprofundar conhecimento em Node.js e iniciar estudos de elixir
+- Aprofundar conhecimento em Node.js e iniciar estudos de Elixir
 - Avançar conhecimento em Typescript
 - Continuar procurando o que aprender!
 
